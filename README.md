@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Chirajeeve
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400" />
+<img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="800" height="400" alt="Glitch coding GIF" />
+
 </p>
 
 <p align="center">
