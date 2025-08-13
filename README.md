@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**chiranjeevi-801/chiranjeevi-801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-# Hi there, I'm Alex 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I’m a software developer who loves Python, JavaScript, and cloud computing.
+- 🌱 I’m currently learning AI and DevOps.
+- 🎯 My goal: Build tools that make people's lives easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: Python, JavaScript, TypeScript
+- Frameworks: React, Node.js, Django
+- Tools: Git, Docker, AWS
+
+## 📫 How to reach me
+- Email: alex@example.com
+- LinkedIn: [linkedin.com/in/alexdev](https://linkedin.com/in/alexdev)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexdev&show_icons=true&theme=radical)
