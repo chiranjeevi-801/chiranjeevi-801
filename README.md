@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Chirajeeve
 
 <p align="center">
-<img src="https://media.giphy.com/media/26AOSJkIBbjBxPitys/giphy.gif" width="800" height="400" alt="Developer at work GIF" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="800" height="400" alt="Developer typing GIF" />
+
 
 
 </p>
