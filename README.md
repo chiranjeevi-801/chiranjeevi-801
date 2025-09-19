@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chirajeevi
+# 👋 Hi, I'm Chiranjeevi
 
 <p align="center">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="800" height="400" alt="Developer typing GIF" />
