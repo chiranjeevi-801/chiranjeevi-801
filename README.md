@@ -1,16 +1,5 @@
 # 👋 Hi, I'm Chiranjeevi
 
-<p align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="800" height="400" alt="Developer typing GIF" />
-
-
-
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chiranjeevi-801&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  
-</p>
 
 ---
 
