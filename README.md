@@ -3,7 +3,7 @@
 
 ---
 
-💻 **Frontend Developer** | 📊 **Data Analyst**  
+📊 **Data Analyst**  
 📍 India | 🕒 IST (UTC+5:30)
 
 ---
